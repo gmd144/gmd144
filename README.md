@@ -1,4 +1,4 @@
-* Hi, I’m @gmd144
+* Hi, I’m Ghulam Mohi ud Din
 * I’m interested in Data Science and Machine Learning
 * I’m currently learning to automate different daily routine tasks with python
 * I’m looking to collaborate on Machine Vision applications and GAN Neural Networks
